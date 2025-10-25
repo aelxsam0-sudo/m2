@@ -1,0 +1,26 @@
+[00:07:48] [User Authenticator #5/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[00:07:48] [User Authenticator #6/INFO]: UUID of player OvniXal is 2010b082-23fb-3e34-991c-19dfab0dca2f
+[00:07:53] [Server thread/INFO]: OvniXal joined the game
+[00:07:53] [Server thread/INFO]: OvniXal[/127.48.6.202:55213] logged in with entity id 22064 at ([world]-226.5, 63.0, -198.5)
+[00:07:54] [Server thread/INFO]: Xautral joined the game
+[00:07:54] [Server thread/INFO]: Xautral[/127.48.6.202:54203] logged in with entity id 22063 at ([world]777.3000000119209, -60.0, -1024.579628719844)
+[00:07:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f67e3296-0f79-4a17-b9cb-2d25bd58b3d7, mapped to Bat['Bat'/22095, uuid='f67e3296-0f79-4a17-b9cb-2d25bd58b3d7', l='ServerLevel[world]', x=783.10, y=-25.27, z=-1007.17, cpos=[48, -63], tl=0, v=true], can't add Bat['Bat'/22120, uuid='f67e3296-0f79-4a17-b9cb-2d25bd58b3d7', l='ServerLevel[world]', x=784.76, y=-24.00, z=-1006.51, cpos=[49, -63], tl=0, v=false]
+[00:07:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f6b985f3-afcd-4318-9c93-b9a07a024880, mapped to Bat['Bat'/22094, uuid='f6b985f3-afcd-4318-9c93-b9a07a024880', l='ServerLevel[world]', x=783.51, y=-45.81, z=-998.33, cpos=[48, -63], tl=0, v=true], can't add Bat['Bat'/22121, uuid='f6b985f3-afcd-4318-9c93-b9a07a024880', l='ServerLevel[world]', x=784.31, y=-46.00, z=-998.49, cpos=[49, -63], tl=0, v=false]
+[00:08:23] [Server thread/INFO]: OvniXal lost connection: Disconnected
+[00:08:23] [Server thread/INFO]: OvniXal left the game
+[00:18:40] [Server thread/INFO]: Xautral issued server command: /kill
+[00:18:40] [Server thread/INFO]: Xautral was killed
+[00:18:40] [Server thread/INFO]: [Xautral: Killed Xautral]
+[00:19:05] [Server thread/INFO]: Xautral issued server command: /time set 0t
+[00:19:05] [Server thread/INFO]: [Xautral: Set the time to 0]
+[00:27:25] [Netty Epoll Server IO #1/INFO]: Disconnecting Xautral for sending keepalive response (13344272) out-of-order!
+[00:27:25] [Server thread/INFO]: Xautral lost connection: Timed out
+[00:27:25] [Server thread/INFO]: Xautral left the game
+[01:13:24] [User Authenticator #7/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:13:25] [Server thread/INFO]: Xautral joined the game
+[01:13:25] [Server thread/INFO]: Xautral[/127.48.6.202:41943] logged in with entity id 24259 at ([world]-276.7852257230015, 72.1315812937008, 1.8797305739556676)
+[01:15:24] [Server thread/INFO]: Xautral lost connection: Login timed out!
+[01:15:24] [Server thread/INFO]: Xautral left the game
+[01:19:51] [User Authenticator #8/INFO]: UUID of player Xautral is 86f4fd4a-173d-3e06-a1bf-669194d778d7
+[01:19:56] [Server thread/INFO]: Xautral joined the game
+[01:19:56] [Server thread/INFO]: Xautral[/127.48.6.202:36247] logged in with entity id 24490 at ([world]-276.7852257230015, 72.1315812937008, 1.8797305739556676)
